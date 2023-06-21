@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+asyncpg
+ujson
+pydantic
+pyjwt
+python-multipart
+aiohttp
+lxml
+beautifulsoup4
+pyzmq
+WeasyPrint
+pydantic[email]
+emails
